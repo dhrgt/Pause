@@ -1,4 +1,4 @@
-# TechArtMajorProject
+# Tech Art Major Project
 
 If you have ever had a great idea come to you in the shower, while on a walk or in a dream, you can testify to the power of giving ourselves time to let the mind wander.   
 
